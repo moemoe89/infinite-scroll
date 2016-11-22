@@ -2,4 +2,4 @@
 Infinite scroll with PHP,MySQL,AJAX
 
 ## Demo
-> http://infinite-scroll.demo.momo.my.id/
+> https://infinite-scroll-momo.herokuapp.com/
